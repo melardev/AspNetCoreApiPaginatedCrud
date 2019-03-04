@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\workspace\\dotnet\\CoreWebApi\\ApiCoreCrud\\ApiCrudCore\\ApiCrudCore\\ApiCrudCore.csproj",
+    "projectName": "ApiCrudCore",
+    "projectPath": "D:\\workspace\\dotnet\\CoreWebApi\\ApiCoreCrud\\ApiCrudCore\\ApiCrudCore\\ApiCrudCore.csproj",
+    "outputPath": "D:\\workspace\\dotnet\\CoreWebApi\\ApiCoreCrud\\ApiCrudCore\\ApiCrudCore\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "AspNetCore.RouteAnalyzer": {
+          "target": "Package",
+          "version": "[0.5.3, )"
+        },
+        "Bogus": {
+          "target": "Package",
+          "version": "[26.0.1, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

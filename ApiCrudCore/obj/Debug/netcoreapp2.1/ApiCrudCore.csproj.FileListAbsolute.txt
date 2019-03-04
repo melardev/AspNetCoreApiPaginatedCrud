@@ -1,0 +1,14 @@
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\bin\Debug\netcoreapp2.1\ApiCrudCore.deps.json
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\bin\Debug\netcoreapp2.1\ApiCrudCore.runtimeconfig.json
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\bin\Debug\netcoreapp2.1\ApiCrudCore.runtimeconfig.dev.json
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\bin\Debug\netcoreapp2.1\ApiCrudCore.dll
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\bin\Debug\netcoreapp2.1\ApiCrudCore.pdb
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\obj\Debug\netcoreapp2.1\ApiCrudCore.csprojAssemblyReference.cache
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\obj\Debug\netcoreapp2.1\ApiCrudCore.csproj.CoreCompileInputs.cache
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\obj\Debug\netcoreapp2.1\ApiCrudCore.RazorAssemblyInfo.cache
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\obj\Debug\netcoreapp2.1\ApiCrudCore.RazorAssemblyInfo.cs
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\obj\Debug\netcoreapp2.1\ApiCrudCore.AssemblyInfoInputs.cache
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\obj\Debug\netcoreapp2.1\ApiCrudCore.AssemblyInfo.cs
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\obj\Debug\netcoreapp2.1\ApiCrudCore.RazorTargetAssemblyInfo.cache
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\obj\Debug\netcoreapp2.1\ApiCrudCore.dll
+D:\workspace\dotnet\CoreWebApi\ApiCoreCrud\ApiCrudCore\ApiCrudCore\obj\Debug\netcoreapp2.1\ApiCrudCore.pdb
