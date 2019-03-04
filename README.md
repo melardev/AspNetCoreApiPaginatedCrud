@@ -18,7 +18,7 @@ I have many other implementations of this server:
 - [Python Django](https://github.com/melardev/DjangoApiCrudPaginated)
 - [Python Django + Rest Framework](https://github.com/melardev/DjangoRestFrameworkPaginatedCrud)
 - [Python Flask](https://github.com/melardev/FlaskApiPaginatedCrud)
-
+- [AspNetCore](https://github.com/melardev/AspNetCoreApiPaginatedCrud)
 
 The next come are:
 - NodeJs Express + Knex
