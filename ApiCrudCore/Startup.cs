@@ -42,6 +42,13 @@ namespace ApiCrudCore
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseCors(builder =>
+                {
+                    builder.AllowAnyOrigin();
+                    builder.AllowAnyHeader();
+                    builder.AllowAnyMethod();
+                }
+            );
             app.UseMvc(routes =>
             {
                 routes.MapRouteAnalyzer("/routes");

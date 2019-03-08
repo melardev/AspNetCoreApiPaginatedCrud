@@ -22,7 +22,7 @@ namespace ApiCrudCore.Dtos.Responses.Todos
 
             return new TodoListResponse
             {
-                PageMeta = new PageMeta(todos.Count, basePath, currentPage: currentPage, pageSize: pageSize,
+                PageMeta = new PageMeta(todos.Count, basePath, currentPageNumber: currentPage, pageSize: pageSize,
                     totalItemCount: totalItemCount),
                 Todos = todoDtos
             };
