@@ -18,7 +18,7 @@
       - [The next come are](#the-next-come-are-2)
     + [Client side implementations](#client-side-implementations-2)
       - [The next come are](#the-next-come-are-3)
-- [Follow me](#follow-me)
+- [Follow me](#social-media-links)
     
 
 # Introduction
@@ -137,7 +137,7 @@ This client side E-commerce application is also implemented using other client s
 - Ember
 - Vanilla javascript
 
-# Follow me
+# Social media links
 - [Youtube Channel](https://youtube.com/melardev)
 - [Blog](http://melardev.com)
 - [Twitter](https://twitter.com/@melardev)

@@ -80,9 +80,12 @@ namespace ApiCrudCore.Infrastructure.Services
         {
             Todo todoFromDb = _context.Todos.First(t => t.Id == id);
             todoFromDb.Title = todoFromUserInput.Title;
-            todoFromDb.Description = todoFromUserInput.Description;
+
+            if (todoFromUserInput.Description != null)
+                todoFromDb.Description = todoFromUserInput.Description;
+
             todoFromDb.Completed = todoFromUserInput.Completed;
-           
+
             _context.Entry(todoFromDb).State = EntityState.Modified;
             await _context.SaveChangesAsync();
             return todoFromDb;
